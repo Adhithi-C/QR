@@ -1,0 +1,14 @@
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\MobileScannerPermissions.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\MobileScannerPermissionsListener.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\MobileScannerPlugin.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\objects\MobileScannerStartParameters.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\MobileScannerCallbacks.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\utils\Yuv.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\BarcodeHandler.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\MobileScannerHandler.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\objects\BarcodeFormats.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\utils\YuvToRgbConverter.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\MobileScannerExceptions.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\objects\DetectionSpeed.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\MobileScanner.kt
+C:\Users\SJC\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-4.0.1\android\src\main\kotlin\dev\steenbakker\mobile_scanner\MobileScannerUtilities.kt

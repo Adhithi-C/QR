@@ -1,0 +1,1 @@
+ C:\\Users\\SJC\\StudioProjects\\QR\\.dart_tool\\flutter_build\\bcab8f19d9f623bbaa1ef4e660766cc0\\native_assets.yaml: 
