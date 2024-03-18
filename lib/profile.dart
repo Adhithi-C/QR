@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
 class Profile extends StatefulWidget {
   const Profile({Key? key}) : super(key: key);
 
@@ -7,6 +8,14 @@ class Profile extends StatefulWidget {
 }
 
 class _ProfileState extends State<Profile> {
+  void profile() async{
+    Uri uri = Uri.parse('https://scnner-web.onrender.com/api/profile/rollno');
+    var response = await http.get(uri,
+        headers: <String, String>{
+        'Content-Type': 'application/json; charset=UTF-8',
+        },
+    );
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(

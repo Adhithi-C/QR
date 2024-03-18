@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:registration_page/QR.dart';
 import 'package:registration_page/registration.dart';
 import 'package:http/http.dart' as http;
-// import 'package:registration_page/scanner.dart';
+import 'package:registration_page/scanner.dart';
 
 class Login extends StatefulWidget {
   const Login({Key? key}) : super(key: key);
@@ -107,9 +107,6 @@ class _LoginState extends State<Login> {
           ),
           TextButton(
               onPressed: () {
-                setState(() {
-                  login();
-                });
                 Navigator.push(
                     context,
                     MaterialPageRoute(
